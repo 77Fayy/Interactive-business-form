@@ -1,6 +1,6 @@
 # Interactive-business-form
 
-An interactive Business Model Canvas (نموذج العمل التجاري) for workshops: 20 project rooms, one per team, where students fill the nine canvas blocks together, see each other live, and download their canvas as a PDF.
+An interactive Business Model Canvas 
 
 ## Features
 - 20 project rooms, each with its own independent data
